@@ -14,7 +14,7 @@
     "url": "git+https://github.com/CarolineKristensen/testing-with-jest.git"
   },
   "author": "Caroline Kristensen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CarolineKristensen/testing-with-jest/issues"
   },
